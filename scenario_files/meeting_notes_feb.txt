@@ -1,0 +1,21 @@
+Henderson Project - February Review Meeting
+Date: February 18, 2025
+Attendees: Sarah Chen (PM), David Okafor (Eng Lead), Lisa Martinez (VP Product), James Wright (CFO)
+
+Summary:
+David presented the technical feasibility report. Key findings:
+
+- Option A (full rebuild): Technically sound but high risk. Team would need to hire 3 additional engineers. Timeline likely to slip to 8 months.
+- Option B (phased migration): Lowest risk approach. Can be done with current team. Some performance trade-offs in the interim period but manageable.
+- Option C (vendor partnership): Stratton Systems' proposal reviewed. Concerns about long-term vendor lock-in and data sovereignty.
+
+James raised budget concerns — Q2 spending is already projected to exceed targets. He noted that whichever option is chosen, it needs to come in under $1.5M.
+
+Lisa indicated the board is leaning toward a lower-risk approach given current market conditions.
+
+Discussion was productive but no final decision was made. The board will make the final call at the March meeting.
+
+Action items:
+- Sarah to prepare final recommendation document for the board
+- James to confirm Q2 budget allocation
+- Lisa to brief the board ahead of March meeting

@@ -1,0 +1,19 @@
+Henderson Project - January Strategy Meeting
+Date: January 15, 2025
+Attendees: Sarah Chen (PM), David Okafor (Eng Lead), Lisa Martinez (VP Product)
+
+Summary:
+The Henderson project was discussed at length. Three options are currently on the table:
+
+- Option A: Full rebuild of the existing infrastructure. Estimated 6 months, $2.1M budget.
+- Option B: Incremental migration with a phased rollout. Estimated 4 months, $1.4M budget.
+- Option C: Partnership with an external vendor (Stratton Systems). Estimated 3 months, $1.8M budget.
+
+Sarah noted that stakeholder feedback has been mixed. The engineering team has strong preferences but the board wants to see a cost-benefit analysis before committing.
+
+Action items:
+- David to prepare technical feasibility report for all three options by Feb 1
+- Lisa to schedule board presentation for late February
+- Sarah to gather additional stakeholder input
+
+No decision was reached at this meeting. The team agreed to revisit after the feasibility report is complete.

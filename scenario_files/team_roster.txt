@@ -1,0 +1,17 @@
+Henderson Project - Team Roster
+
+Project Lead: Sarah Chen
+Engineering Lead: David Okafor
+VP Product: Lisa Martinez
+CFO: James Wright
+
+Engineering Team:
+- Alex Kim (Senior Backend)
+- Priya Patel (Senior Frontend)
+- Marcus Johnson (DevOps)
+- Emily Zhang (QA Lead)
+
+Stakeholders:
+- Board of Directors
+- Client Relations (Tom Hargrove)
+- Legal (Diana Ross)
